@@ -21,7 +21,7 @@ The Weather App is a simple Django web application that allows users to retrieve
 1. Clone the repository:
 
    ```
-   git clone https://github.com/natzsmart/WeatherApp.git
+   git clone https://github.com/JoyAda123/WeatherApp.git
    ```
 
 2. Change to the project directory:
